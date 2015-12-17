@@ -15,7 +15,9 @@
 		'package.json',
 		'gruntfile.js',
 		'bower.json',
-		'\\.pot'        // WordPress .pot files
+		'\\.pot',       // WordPress .pot files
+		'.*css.map',    // CSS Map files
+		'.*\\.min\\..*' // Minified files
 	];
 
 	// Bind the beanslide method

@@ -1,6 +1,6 @@
 {
   "name": "beanslide-bookmarklet",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Slides up unncessary files in Beanstalk and allows you to toggle any files in code view.",
   "author": "Zach Owen <phatsk@gmail.com>",
   "main": "src/beanslide.js",
