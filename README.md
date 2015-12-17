@@ -10,6 +10,8 @@ clicking their headers.
 
 Installation
 ---
+You can always just grab the JS from [the build file](/build/beanslide.min.js) and copy it into the URL field of a new
+bookmark for the quickest install.
 
 Clone the repository and `npm install; grunt` to build the `build/beanslide.min.js` file. Copy this file's contents
 into a Bookmark in your favorite browser (tested on Chrome, but should be fine elsewhere) and use it when you're on a
