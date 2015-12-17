@@ -15,8 +15,12 @@ Clone the repository and `npm install; grunt` to build the `build/beanslide.min.
 into a Bookmark in your favorite browser (tested on Chrome, but should be fine elsewhere) and use it when you're on a
 Beanstalk page.
 
+Current Release: v0.1.0
+---
+
+Tag v0.1.0, availble from the Releases page, contains a build of the most current source.
+
 Todo
 ---
 
 * Need to add screenshots
-* Figure out releases
