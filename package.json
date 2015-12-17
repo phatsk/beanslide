@@ -1,0 +1,28 @@
+{
+  "name": "beanslide-bookmarklet",
+  "version": "0.1.0",
+  "description": "Slides up unncessary files in Beanstalk and allows you to toggle any files in code view.",
+  "author": "Zach Owen <phatsk@gmail.com>",
+  "main": "src/beanslide.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/phatsk/beanslide"
+  },
+  "bugs": {
+    "url": "https://github.com/phatsk/beanslide/issues"
+  },
+  "keywords": [
+    "beanstalk",
+    "beanslide"
+  ],
+  "dependencies": {
+    "grunt": "~0.4.5",
+    "grunt-bookmarklet-wrapper": "*"
+  },
+  "preferGlobal": false,
+  "private": true,
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "^0.4.5"
+  }
+}
