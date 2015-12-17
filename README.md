@@ -15,6 +15,10 @@ Clone the repository and `npm install; grunt` to build the `build/beanslide.min.
 into a Bookmark in your favorite browser (tested on Chrome, but should be fine elsewhere) and use it when you're on a
 Beanstalk page.
 
+Screenshots
+---
+![Example usage of beanslide](/../screenshots/screenshots/beanslide.gif?raw=true "Example usage of beanslide")
+
 Current Release: v0.1.1
 ---
 
@@ -26,9 +30,3 @@ Changelog
 
 **v0.1.0**
 * Initial checkin
-
-
-Todo
----
-
-* Need to add screenshots
