@@ -55,6 +55,8 @@ Screenshots
 ---
 ![Example usage of beanslide](/../screenshots/screenshots/beanslide.gif?raw=true "Example usage of beanslide")
 
+![Converted links in the changeset UI](/../screenshots/screenshots/beanslide-linkify.png "Converted links in the changeset UI")
+
 Current Release: v0.2.0
 ---
 
