@@ -63,6 +63,7 @@ Changelog
 **v0.2.0**
 * Convert script to a userscript format (for Tampermonkey)
 * Original bookmarklet is dead, long live the userscript!
+* Add link-ifying some helpful links like branches and commit messages.
 
 **v0.1.1**
 * Add CSS Map files to mask
